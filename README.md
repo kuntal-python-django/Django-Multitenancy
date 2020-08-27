@@ -7,6 +7,7 @@ Shared Approach: Shared Database, Shared Schema. All tenants share the same data
 
 Here we are following Semi Isolated Approach
 
+#################################################
 
 python manage.py makemigrations
 
